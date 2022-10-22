@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, DL&ML, Robotics, CS and PHYSICS!
 - 🌱 I’m currently learning C and Python and Web development. 
 - 💞️ I’m looking forward to learn and collaborate on mini projects.
-- 📫 insta: @Adu_0.0.7
+- 📫 
 
 <!---
 adu-CS/adu-CS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
